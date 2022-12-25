@@ -1,0 +1,5 @@
+C:\LocalRepo\CSharpLearning\CodingPractice\XamlTutorial\obj\Debug\net6.0-windows\XamlTutorial.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\XamlTutorial\obj\Debug\net6.0-windows\App.g.cs
+C:\LocalRepo\CSharpLearning\CodingPractice\XamlTutorial\obj\Debug\net6.0-windows\XamlTutorial_MarkupCompile.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\XamlTutorial\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\LocalRepo\CSharpLearning\CodingPractice\XamlTutorial\obj\Debug\net6.0-windows\XamlTutorial_MarkupCompile.lref
