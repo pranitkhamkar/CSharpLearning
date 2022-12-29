@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\LocalRepo\CSharpLearning\CodingPractice\XamlTutorial\App.xaml
-11407045341
+4-1376446923
 
-6611587967
+9574319461
 1942007414746
-MainWindow.xaml;
+bindingViaCodeBehind.xaml;MainWindow.xaml;TextCopied_displayed.xaml;Window1.xaml;
 
-True
+False
 

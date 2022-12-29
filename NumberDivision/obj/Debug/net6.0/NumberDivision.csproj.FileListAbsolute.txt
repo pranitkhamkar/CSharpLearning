@@ -1,0 +1,15 @@
+C:\Work\DotNetLearning\NumberDivision\bin\Debug\net6.0\NumberDivision.exe
+C:\Work\DotNetLearning\NumberDivision\bin\Debug\net6.0\NumberDivision.deps.json
+C:\Work\DotNetLearning\NumberDivision\bin\Debug\net6.0\NumberDivision.runtimeconfig.json
+C:\Work\DotNetLearning\NumberDivision\bin\Debug\net6.0\NumberDivision.dll
+C:\Work\DotNetLearning\NumberDivision\bin\Debug\net6.0\NumberDivision.pdb
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\NumberDivision.csproj.AssemblyReference.cache
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\NumberDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\NumberDivision.AssemblyInfoInputs.cache
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\NumberDivision.AssemblyInfo.cs
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\NumberDivision.csproj.CoreCompileInputs.cache
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\NumberDivision.dll
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\refint\NumberDivision.dll
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\NumberDivision.pdb
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\NumberDivision.genruntimeconfig.cache
+C:\Work\DotNetLearning\NumberDivision\obj\Debug\net6.0\ref\NumberDivision.dll
