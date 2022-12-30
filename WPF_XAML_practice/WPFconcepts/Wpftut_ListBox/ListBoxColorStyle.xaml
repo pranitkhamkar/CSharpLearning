@@ -1,0 +1,30 @@
+﻿<Window x:Class="Wpftut_ListBox.ListBoxColorStyle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="ListBoxColorStyle" Height="120" Width="200">
+    <Grid Margin="10">
+		<ListBox>
+			<ListBoxItem>
+				<StackPanel Orientation="Horizontal">
+					<!--<Image Source="/Wpftut_ListBox;component/Images/bullet_blue.png"/>-->
+					<TextBlock>ListBox Item #1</TextBlock>
+				</StackPanel>
+			</ListBoxItem>
+			<ListBoxItem>
+				<StackPanel Orientation="Horizontal">
+					<!--<Image Source="/Wpftut_ListBox;component/Images/bullet_green.png"/>-->
+					<TextBlock>ListBox Item #2</TextBlock>
+				</StackPanel>
+			</ListBoxItem>
+			<ListBoxItem>
+				<StackPanel Orientation="Horizontal">
+					<!--<Image Source="/Wpftut_ListBox;component/Images/bullet_red.png"/>-->
+					<TextBlock>ListBox Item #3</TextBlock>
+				</StackPanel>
+			</ListBoxItem>
+		</ListBox>
+    </Grid>
+</Window>

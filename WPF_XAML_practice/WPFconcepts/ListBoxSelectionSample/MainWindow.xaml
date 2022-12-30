@@ -1,0 +1,51 @@
+﻿<Window
+	x:Class="ListBoxSelectionSample.MainWindow"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:local="clr-namespace:ListBoxSelectionSample"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	Title="MainWindow"
+	Width="450"
+	Height="250"
+	mc:Ignorable="d">
+	<DockPanel Margin="10">
+		<StackPanel Margin="10,0" DockPanel.Dock="Right">
+			<StackPanel.Resources>
+				<Style TargetType="Button">
+					<Setter Property="Margin" Value="0,0,0,5" />
+				</Style>
+			</StackPanel.Resources>
+			<TextBlock Margin="0,0,0,10" FontWeight="Bold">
+				List Box Selection
+			</TextBlock>
+			<Button Name="btnShowSelectedItem" Click="btnShowSelectedItem_Click">Show Selected</Button>
+			<Button Name="btnSelectLast" Click="btnSelectLast_Click">Select last</Button>
+			<Button Name="btnSelectNext" Click="btnSelectNext_Click">Select Next</Button>
+			<Button Name="btnSelectCSharp" Click="btnSelectCSharp_Click">Select C#</Button>
+			<Button Name="btnSelectAll" Click="btnSelectAll_Click">Select All</Button>
+		</StackPanel>
+		<ListBox
+			Name="lbTodoList"
+			HorizontalContentAlignment="Stretch"
+			SelectionChanged="lbTodoList_SelectionChanged"
+			SelectionMode="Extended">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Grid Margin="0,2">
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="*" />
+							<ColumnDefinition Width="100" />
+						</Grid.ColumnDefinitions>
+						<TextBlock Text="{Binding Title}" />
+						<ProgressBar
+							Grid.Column="1"
+							Maximum="100"
+							Minimum="0"
+							Value="{Binding Completion}" />
+					</Grid>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</DockPanel>
+</Window>

@@ -1,0 +1,8 @@
+C:\LocalRepo\CSharpLearning\CodingPractice\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\LocalRepo\CSharpLearning\CodingPractice\HelloWorld\bin\Debug\HelloWorld.exe
+C:\LocalRepo\CSharpLearning\CodingPractice\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\LocalRepo\CSharpLearning\CodingPractice\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\HelloWorld\obj\Debug\HelloWorld.exe
+C:\LocalRepo\CSharpLearning\CodingPractice\HelloWorld\obj\Debug\HelloWorld.pdb
