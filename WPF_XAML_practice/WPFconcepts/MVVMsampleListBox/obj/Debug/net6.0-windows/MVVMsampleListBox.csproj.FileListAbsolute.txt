@@ -1,14 +1,15 @@
-C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox.csproj.AssemblyReference.cache
-C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\View\ListBoxView.g.cs
-C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\App.g.cs
-C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox_MarkupCompile.cache
-C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox_MarkupCompile.lref
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\bin\Debug\net6.0-windows\MVVMsampleListBox.exe
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\bin\Debug\net6.0-windows\MVVMsampleListBox.deps.json
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\bin\Debug\net6.0-windows\MVVMsampleListBox.runtimeconfig.json
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\bin\Debug\net6.0-windows\MVVMsampleListBox.dll
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\bin\Debug\net6.0-windows\MVVMsampleListBox.pdb
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox.csproj.AssemblyReference.cache
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\View\ListBoxView.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\App.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox_MarkupCompile.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox_MarkupCompile.lref
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MainWindow.baml
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\View\ListBoxView.baml
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox.g.resources
@@ -21,4 +22,3 @@ C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox.pdb
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\MVVMsampleListBox.genruntimeconfig.cache
 C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\ref\MVVMsampleListBox.dll
-C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMsampleListBox\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs

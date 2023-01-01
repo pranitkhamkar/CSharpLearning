@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpftut_ListBox", "Wpftut_ListBox\Wpftut_ListBox.csproj", "{47E49364-771F-49C7-BF81-E0ADBDCBE4CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpftut_ListBox", "Wpftut_ListBox\Wpftut_ListBox.csproj", "{47E49364-771F-49C7-BF81-E0ADBDCBE4CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpTut_listbox", "CsharpTut_listbox\CsharpTut_listbox.csproj", "{41496EC6-5F37-46BF-9BAE-79740BFCCDE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpTut_listbox", "CsharpTut_listbox\CsharpTut_listbox.csproj", "{41496EC6-5F37-46BF-9BAE-79740BFCCDE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxSelectionSample", "ListBoxSelectionSample\ListBoxSelectionSample.csproj", "{6DE230BD-3FD7-4B24-9CD2-A6EAFACD89D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListBoxSelectionSample", "ListBoxSelectionSample\ListBoxSelectionSample.csproj", "{6DE230BD-3FD7-4B24-9CD2-A6EAFACD89D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMsampleListBox", "MVVMsampleListBox\MVVMsampleListBox.csproj", "{C8222D12-1365-4304-98C4-98DFD017511C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVVMsampleListBox", "MVVMsampleListBox\MVVMsampleListBox.csproj", "{C8222D12-1365-4304-98C4-98DFD017511C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmListBoxCommand", "MvvmListBoxCommand\MvvmListBoxCommand.csproj", "{067AA168-4870-4BAF-BCD9-100CD79C3E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFbidingComboBox", "WPFbidingComboBox\WPFbidingComboBox.csproj", "{1A4DB519-6963-4204-85A2-D4C5B4F9FA7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C8222D12-1365-4304-98C4-98DFD017511C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8222D12-1365-4304-98C4-98DFD017511C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8222D12-1365-4304-98C4-98DFD017511C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067AA168-4870-4BAF-BCD9-100CD79C3E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067AA168-4870-4BAF-BCD9-100CD79C3E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067AA168-4870-4BAF-BCD9-100CD79C3E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067AA168-4870-4BAF-BCD9-100CD79C3E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4DB519-6963-4204-85A2-D4C5B4F9FA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4DB519-6963-4204-85A2-D4C5B4F9FA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4DB519-6963-4204-85A2-D4C5B4F9FA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4DB519-6963-4204-85A2-D4C5B4F9FA7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
