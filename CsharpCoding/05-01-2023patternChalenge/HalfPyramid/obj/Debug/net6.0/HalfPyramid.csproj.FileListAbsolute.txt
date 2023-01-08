@@ -1,0 +1,15 @@
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\bin\Debug\net6.0\HalfPyramid.exe
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\bin\Debug\net6.0\HalfPyramid.deps.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\bin\Debug\net6.0\HalfPyramid.runtimeconfig.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\bin\Debug\net6.0\HalfPyramid.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\bin\Debug\net6.0\HalfPyramid.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\HalfPyramid.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\HalfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\HalfPyramid.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\HalfPyramid.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\HalfPyramid.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\HalfPyramid.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\refint\HalfPyramid.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\HalfPyramid.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\HalfPyramid.genruntimeconfig.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HalfPyramid\obj\Debug\net6.0\ref\HalfPyramid.dll

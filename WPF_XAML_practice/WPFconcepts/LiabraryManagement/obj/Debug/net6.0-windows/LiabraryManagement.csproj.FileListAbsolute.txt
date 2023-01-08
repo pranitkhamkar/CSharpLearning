@@ -1,0 +1,16 @@
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\bin\Debug\net6.0-windows\LiabraryManagement.exe
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\bin\Debug\net6.0-windows\LiabraryManagement.dll
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\App.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement_MarkupCompile.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement_MarkupCompile.lref
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\MainWindow.baml
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement.g.resources
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement.dll
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\refint\LiabraryManagement.dll
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\LiabraryManagement\obj\Debug\net6.0-windows\LiabraryManagement.pdb

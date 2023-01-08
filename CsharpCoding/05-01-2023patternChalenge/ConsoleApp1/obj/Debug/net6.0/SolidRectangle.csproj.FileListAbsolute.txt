@@ -1,0 +1,15 @@
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\SolidRectangle.exe
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\SolidRectangle.deps.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\SolidRectangle.runtimeconfig.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\SolidRectangle.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\SolidRectangle.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\SolidRectangle.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\SolidRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\SolidRectangle.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\SolidRectangle.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\SolidRectangle.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\SolidRectangle.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\refint\SolidRectangle.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\SolidRectangle.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\SolidRectangle.genruntimeconfig.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\ref\SolidRectangle.dll

@@ -1,0 +1,15 @@
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\bin\Debug\net6.0\UserInputDependent.exe
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\bin\Debug\net6.0\UserInputDependent.deps.json
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\bin\Debug\net6.0\UserInputDependent.runtimeconfig.json
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\bin\Debug\net6.0\UserInputDependent.dll
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\bin\Debug\net6.0\UserInputDependent.pdb
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\UserInputDependent.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\UserInputDependent.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\UserInputDependent.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\UserInputDependent.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\UserInputDependent.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\UserInputDependent.dll
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\refint\UserInputDependent.dll
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\UserInputDependent.pdb
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\UserInputDependent.genruntimeconfig.cache
+C:\LocalRepo\CSharpLearning\CodingPractice\ConsoleProgSolutions\UserInputDependent\obj\Debug\net6.0\ref\UserInputDependent.dll

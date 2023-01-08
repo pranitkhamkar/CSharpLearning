@@ -1,0 +1,15 @@
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\bin\Debug\net6.0\HollowRectangle.exe
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\bin\Debug\net6.0\HollowRectangle.deps.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\bin\Debug\net6.0\HollowRectangle.runtimeconfig.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\bin\Debug\net6.0\HollowRectangle.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\bin\Debug\net6.0\HollowRectangle.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\HollowRectangle.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\HollowRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\HollowRectangle.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\HollowRectangle.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\HollowRectangle.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\HollowRectangle.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\refint\HollowRectangle.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\HollowRectangle.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\HollowRectangle.genruntimeconfig.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangle\obj\Debug\net6.0\ref\HollowRectangle.dll

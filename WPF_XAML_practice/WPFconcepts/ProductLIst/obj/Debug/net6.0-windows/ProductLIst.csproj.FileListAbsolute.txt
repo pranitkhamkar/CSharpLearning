@@ -1,0 +1,7 @@
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\ProductLIst\obj\Debug\net6.0-windows\ProductList.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\ProductLIst\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\ProductLIst\obj\Debug\net6.0-windows\View\ProductListDataView.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\ProductLIst\obj\Debug\net6.0-windows\View\ProductListView.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\ProductLIst\obj\Debug\net6.0-windows\App.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\ProductLIst\obj\Debug\net6.0-windows\ProductList_MarkupCompile.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\ProductLIst\obj\Debug\net6.0-windows\ProductList_MarkupCompile.lref

@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MVVMsampleListBox\\ViewModel",
+    "\\ProductLIst\\ViewModel"
   ],
+  "SelectedNode": "\\MVVMbackgroundColorChange",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,141 @@
+﻿<UserControl x:Class="ProductLIst.View.ProductListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProductLIst.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="auto" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition 
+				Width = "*" />
+		</Grid.ColumnDefinitions>
+
+		<Label Content = "Product List"
+			   HorizontalAlignment="Center"
+			   FontSize = "35"
+			   FontWeight = "Bold" 
+			   Grid.Column = "0" 
+			   Grid.Row = "0"/>
+
+		<StackPanel Grid.Column = "0" 
+					HorizontalAlignment="Center"
+					Grid.Row = "1"
+					Orientation = "Horizontal">
+			
+			<Label Content = "Name"  
+				   VerticalAlignment = "Center" 
+				   Width = "70"/>
+			<TextBox Name = "txtName" 
+					 Text = "" 
+					 VerticalAlignment = "Center"
+					Width = "200">
+			</TextBox>
+		</StackPanel>
+
+		<StackPanel Grid.Column = "0"
+					HorizontalAlignment="Center"
+					Grid.Row = "2" 
+					Orientation = "Horizontal">
+			<Label Content = "Discription" 
+				   VerticalAlignment = "Center" 
+				   Width = "70"/>
+			<TextBox Name = "txtDiscription" 
+					 Text = "" 
+					 VerticalAlignment = "Center"
+					Width = "200">
+			</TextBox>
+		</StackPanel>
+
+
+		<StackPanel Grid.Column = "0"
+					HorizontalAlignment="Center"
+					Grid.Row = "3" 
+					Orientation = "Horizontal">
+			<Label Content = "Country" 
+				   VerticalAlignment = "Center" 
+				   Width = "70"/>
+			<ComboBox Name ="txtCountry"
+					  Text= ""
+					  Width="200"
+					  VerticalAlignment= "Center"
+					  ></ComboBox>
+		</StackPanel>
+
+		<StackPanel Grid.Column = "0"
+					HorizontalAlignment="Center"
+					Grid.Row = "4" 
+					Orientation = "Horizontal">
+			<Label Content = "State" 
+				   VerticalAlignment = "Center" 
+				   Width = "70"/>
+			<ComboBox Name ="txtState"
+					  Text= ""
+					  Width="200"
+					  VerticalAlignment= "Center"
+					  ></ComboBox>
+		</StackPanel>
+
+		
+
+		<StackPanel Grid.Column = "0"
+					HorizontalAlignment="Center"
+					Grid.Row = "5" 
+					Orientation = "Horizontal">
+			<Label Content = "City" 
+				   VerticalAlignment = "Center" 
+				   Width = "70"/>
+			<ComboBox Name ="txtCity"
+					  Text= ""
+					  Width="200"
+					  VerticalAlignment= "Center"
+					  ></ComboBox>
+		</StackPanel>
+
+		<StackPanel Grid.Column = "0" 
+					HorizontalAlignment="Center"
+					Grid.Row = "6" 
+					Orientation = "Horizontal">
+			<Label Content = "Price" 
+				   VerticalAlignment = "Center" 
+				   Width = "70"/>
+			<TextBox Name = "txtPrice" 
+					 Text = "" 
+					 VerticalAlignment = "Center"
+            Width = "200"></TextBox>
+		</StackPanel>
+		<WrapPanel
+					Grid.Column = "0" 
+					HorizontalAlignment="Center"
+					Grid.Row = "7"
+					>
+			
+			<Button Name="Save" 
+					Width="60" 
+					Height="25"  
+					Content="Save"/>
+
+			<Button Name="Cancel" 
+					Width="60" 
+					Height="25"  
+					Content="Cancel"/>
+		</WrapPanel>
+
+	</Grid>
+
+
+</UserControl>

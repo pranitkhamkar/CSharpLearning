@@ -1,0 +1,15 @@
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\PatternChallenge.exe
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\PatternChallenge.deps.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\PatternChallenge.runtimeconfig.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\PatternChallenge.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\bin\Debug\net6.0\PatternChallenge.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\PatternChallenge.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\PatternChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\PatternChallenge.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\PatternChallenge.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\PatternChallenge.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\PatternChallenge.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\refint\PatternChallenge.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\PatternChallenge.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\PatternChallenge.genruntimeconfig.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\ConsoleApp1\obj\Debug\net6.0\ref\PatternChallenge.dll

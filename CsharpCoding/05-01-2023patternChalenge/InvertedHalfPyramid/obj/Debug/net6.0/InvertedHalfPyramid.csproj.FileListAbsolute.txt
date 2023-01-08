@@ -1,0 +1,15 @@
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\bin\Debug\net6.0\InvertedHalfPyramid.exe
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\bin\Debug\net6.0\InvertedHalfPyramid.deps.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\bin\Debug\net6.0\InvertedHalfPyramid.runtimeconfig.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\bin\Debug\net6.0\InvertedHalfPyramid.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\bin\Debug\net6.0\InvertedHalfPyramid.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\InvertedHalfPyramid.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\InvertedHalfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\InvertedHalfPyramid.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\InvertedHalfPyramid.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\InvertedHalfPyramid.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\InvertedHalfPyramid.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\refint\InvertedHalfPyramid.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\InvertedHalfPyramid.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\InvertedHalfPyramid.genruntimeconfig.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\InvertedHalfPyramid\obj\Debug\net6.0\ref\InvertedHalfPyramid.dll

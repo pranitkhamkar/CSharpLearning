@@ -1,0 +1,5 @@
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMbackgroundColorChange\obj\Debug\net6.0-windows\MVVMbackgroundColorChange.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMbackgroundColorChange\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMbackgroundColorChange\obj\Debug\net6.0-windows\App.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMbackgroundColorChange\obj\Debug\net6.0-windows\MVVMbackgroundColorChange_MarkupCompile.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\MVVMbackgroundColorChange\obj\Debug\net6.0-windows\MVVMbackgroundColorChange_MarkupCompile.lref

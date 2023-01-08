@@ -1,0 +1,3 @@
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\BookList\obj\Debug\net6.0-windows\LiabraryManagement.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\BookList\obj\Debug\net6.0-windows\App.g.cs
+C:\LocalRepo\CSharpLearning\WPF_XAML_practice\WPFconcepts\BookList\obj\Debug\net6.0-windows\LiabraryManagement_MarkupCompile.cache

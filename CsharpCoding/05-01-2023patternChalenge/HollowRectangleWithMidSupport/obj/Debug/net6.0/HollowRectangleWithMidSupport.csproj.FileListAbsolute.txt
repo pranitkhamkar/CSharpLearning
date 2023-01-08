@@ -1,0 +1,15 @@
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\bin\Debug\net6.0\HollowRectangleWithMidSupport.exe
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\bin\Debug\net6.0\HollowRectangleWithMidSupport.deps.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\bin\Debug\net6.0\HollowRectangleWithMidSupport.runtimeconfig.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\bin\Debug\net6.0\HollowRectangleWithMidSupport.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\bin\Debug\net6.0\HollowRectangleWithMidSupport.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\HollowRectangleWithMidSupport.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\HollowRectangleWithMidSupport.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\HollowRectangleWithMidSupport.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\HollowRectangleWithMidSupport.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\HollowRectangleWithMidSupport.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\HollowRectangleWithMidSupport.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\refint\HollowRectangleWithMidSupport.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\HollowRectangleWithMidSupport.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\HollowRectangleWithMidSupport.genruntimeconfig.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\05-01-2023patternChalenge\HollowRectangleWithMidSupport\obj\Debug\net6.0\ref\HollowRectangleWithMidSupport.dll
