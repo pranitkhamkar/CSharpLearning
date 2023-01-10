@@ -1,0 +1,15 @@
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\bin\Debug\net6.0\BinarySearchConsoleApp.exe
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\bin\Debug\net6.0\BinarySearchConsoleApp.deps.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\bin\Debug\net6.0\BinarySearchConsoleApp.runtimeconfig.json
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\bin\Debug\net6.0\BinarySearchConsoleApp.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\bin\Debug\net6.0\BinarySearchConsoleApp.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\BinarySearchConsoleApp.csproj.AssemblyReference.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\BinarySearchConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\BinarySearchConsoleApp.AssemblyInfoInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\BinarySearchConsoleApp.AssemblyInfo.cs
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\BinarySearchConsoleApp.csproj.CoreCompileInputs.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\BinarySearchConsoleApp.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\refint\BinarySearchConsoleApp.dll
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\BinarySearchConsoleApp.pdb
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\BinarySearchConsoleApp.genruntimeconfig.cache
+C:\LocalRepo\CSharpLearning\CsharpCoding\09-01-2023DataStructurePuzzles\Puzzles\BinarySearchConsoleApp\obj\Debug\net6.0\ref\BinarySearchConsoleApp.dll

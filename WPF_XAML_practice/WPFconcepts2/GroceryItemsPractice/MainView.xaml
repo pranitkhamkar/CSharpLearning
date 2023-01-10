@@ -1,0 +1,53 @@
+﻿<Window x:Class="GroceryItemsPractice.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GroceryItemsPractice"
+        mc:Ignorable="d"
+        Title="Grocery Items View" Height="450" Width="800">
+	<Grid Margin="50">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="auto"/>
+			<RowDefinition Height="auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+		<TextBlock Text="Welcome To Grocery Items Application"
+				   FontSize="25"
+				   Foreground="CornflowerBlue"
+				   FontWeight="Bold"
+				   Grid.Row="0"/>
+		<StackPanel Orientation="Horizontal"
+					Margin="0 10"
+					Grid.Row="1"
+					HorizontalAlignment="Right">
+
+
+			<Button Command="{Binding EditCommand}"
+				Content="Edit"
+				Margin="0 0 10 0"
+				HorizontalAlignment="Right"
+				Foreground="Black"
+				Background="BlueViolet"
+				Width="70"/>
+			<Button Command="{Binding DeleteCommand}"
+				Content="Delete"
+				HorizontalAlignment="Right"
+				Foreground="Black"
+				Background="BlueViolet"
+				Margin="0 0 10 0"
+				Width="70"/>
+			<Button Command="{Binding AddGroceryItemCommand}"
+				Content="Add"
+				HorizontalAlignment="Right"
+				Foreground="Black"
+				Background="BlueViolet"
+				Width="70"/>
+		</StackPanel>
+		<DataGrid ItemsSource="{Binding GroceryItemList}"
+				  SelectedItem="{Binding SelectedGroceryItem}"
+				  SelectionMode="Single"
+				  CanUserAddRows="False"
+				  Grid.Row="2"/>
+	</Grid>
+</Window>
