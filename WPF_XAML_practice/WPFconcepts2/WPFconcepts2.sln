@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoItemsPracticeMVVM", "ToDoItemsPracticeMVVM\ToDoItemsPracticeMVVM.csproj", "{14078C30-B269-4349-8525-6D3C693A8E43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryItemsPractice", "GroceryItemsPractice\GroceryItemsPractice.csproj", "{797903CE-BA76-427B-93E0-31CCB78E3C5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceryItemsPractice", "GroceryItemsPractice\GroceryItemsPractice.csproj", "{797903CE-BA76-427B-93E0-31CCB78E3C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionStoreMvvmPractice", "FashionStoreMvvmPractice\FashionStoreMvvmPractice.csproj", "{9B275ABB-09F7-4E5F-8638-9392B0CB8F4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{797903CE-BA76-427B-93E0-31CCB78E3C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{797903CE-BA76-427B-93E0-31CCB78E3C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{797903CE-BA76-427B-93E0-31CCB78E3C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B275ABB-09F7-4E5F-8638-9392B0CB8F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B275ABB-09F7-4E5F-8638-9392B0CB8F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B275ABB-09F7-4E5F-8638-9392B0CB8F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B275ABB-09F7-4E5F-8638-9392B0CB8F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

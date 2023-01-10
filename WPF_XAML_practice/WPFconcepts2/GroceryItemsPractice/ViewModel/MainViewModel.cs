@@ -1,12 +1,8 @@
 ﻿using GalaSoft.MvvmLight.Command;
-using GroceryItemsPractice.Model;
+
 using GroceryItemsPractice.View;
-using System;
-using System.Collections.Generic;
+
 using System.Collections.ObjectModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 
 namespace GroceryItemsPractice.ViewModel
@@ -15,8 +11,8 @@ namespace GroceryItemsPractice.ViewModel
 	{
 		
 		#region Properties
-		private ObservableCollection<GroceryItem> _groceryItemList;
-		public ObservableCollection<GroceryItem> GroceryItemList
+		private ObservableCollection<GroceryItemDetailViewModel> _groceryItemList;
+		public ObservableCollection<GroceryItemDetailViewModel> GroceryItemList
 		{
 			get 
 			{
@@ -29,12 +25,12 @@ namespace GroceryItemsPractice.ViewModel
 			}
 		}
 
-		private GroceryItem _selectedGroceryItem;
-		public GroceryItem SelectedGroceryItem
+		private GroceryItemDetailViewModel _selectedGroceryItem;
+		public GroceryItemDetailViewModel SelectedGroceryItem
 		{
 			get 
 			{
-				return this._selectedGroceryItem;
+				return _selectedGroceryItem;
 			}
 			set
 			{
@@ -55,7 +51,7 @@ namespace GroceryItemsPractice.ViewModel
 			{
 				if (_addGroceryItemCommand == null)
 				{
-					_addGroceryItemCommand = new RelayCommand(AddGroceryItemDialog, true);
+					_addGroceryItemCommand = new RelayCommand(ShowGroceryItemDialog, true);
 				}
 				return _addGroceryItemCommand;
 			}
@@ -95,13 +91,13 @@ namespace GroceryItemsPractice.ViewModel
 		#region Constructors
 		public MainViewModel()
 		{
-			GroceryItemList= new ObservableCollection<GroceryItem>();
+			GroceryItemList= new ObservableCollection<GroceryItemDetailViewModel>();
 		}
 		#endregion
 
 		#region Methods
 
-		private void AddGroceryItemDialog()
+		private void ShowGroceryItemDialog()
 		{
 			GroceryItemView groceryItemView = new GroceryItemView(this);
 			groceryItemView.ShowDialog();
@@ -121,7 +117,7 @@ namespace GroceryItemsPractice.ViewModel
 		{
 			string message = "Are you sure you want to delete the selected item?";
 			MessageBoxButton button = MessageBoxButton.YesNo;
-			string caption = "B2A TODO Items";
+			string caption = "B2A Grocery Items";
 
 			MessageBoxResult messageBoxResult = MessageBox.Show(message, caption, button, MessageBoxImage.Warning, MessageBoxResult.No);
 
@@ -139,7 +135,8 @@ namespace GroceryItemsPractice.ViewModel
 
 		private void EditSelectedItem()
 		{
-			throw new NotImplementedException();
+			GroceryItemView groceryItemView = new GroceryItemView(this, SelectedGroceryItem);
+			groceryItemView.ShowDialog();
 		}
 
 		#endregion

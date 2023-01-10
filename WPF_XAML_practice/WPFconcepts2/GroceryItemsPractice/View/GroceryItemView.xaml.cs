@@ -25,5 +25,11 @@ namespace GroceryItemsPractice.View
 			InitializeComponent();
 			this.DataContext = new GroceryItemViewModel(this,mainViewModel);
 		}
+
+		public GroceryItemView(MainViewModel mainViewModel, GroceryItemDetailViewModel selectedItem)
+		{
+			InitializeComponent();
+			this.DataContext = new GroceryItemViewModel(this, mainViewModel, selectedItem);
+		}
 	}
 }

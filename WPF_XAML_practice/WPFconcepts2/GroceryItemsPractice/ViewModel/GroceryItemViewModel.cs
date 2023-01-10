@@ -14,6 +14,8 @@ namespace GroceryItemsPractice.ViewModel
 	public class GroceryItemViewModel : BaseViewModel
 	{
         #region Properties
+        private bool isInEditMode;
+        private GroceryItemDetailViewModel _selectedItem;
         private Window currentWindow;
         private MainViewModel mainViewModel;
         private List<string> _categoryList;
@@ -97,6 +99,20 @@ namespace GroceryItemsPractice.ViewModel
                 NotifyPropertyChanged();
             }
         }
+
+        private string _addUpdateButtonTitle;
+        public string AddUpdateButtonTitle
+        {
+            get
+            {
+                return _addUpdateButtonTitle;
+            }
+            set
+            {
+                _addUpdateButtonTitle = value;
+                NotifyPropertyChanged();
+            }
+        }
         #endregion
 
         #region Commands
@@ -144,6 +160,8 @@ namespace GroceryItemsPractice.ViewModel
         #region Constructors
         public GroceryItemViewModel(Window window, MainViewModel mainViewModel)
         {
+            isInEditMode=false;
+            AddUpdateButtonTitle = "Add";
             this.mainViewModel = mainViewModel;
             currentWindow = window;
 
@@ -164,6 +182,19 @@ namespace GroceryItemsPractice.ViewModel
             //CategoryList = new ObservableCollection<string>(DataService.GetAllCategories());
             CategoryList = DataService.GetAllCategories();
             SubCategoryList = new ObservableCollection<string>();
+        }
+
+        public GroceryItemViewModel(Window window, MainViewModel mainViewModel, GroceryItemDetailViewModel selectedItem) : this(window,mainViewModel)
+        {
+            _selectedItem = selectedItem;
+            this.Name = selectedItem.Name;
+            this.SelectedCategory = selectedItem.Category;
+            this.SelectedSubCategory = selectedItem.SubCategory;
+            this.AddCart = selectedItem.AddCart;
+
+            isInEditMode =true;
+            AddUpdateButtonTitle="Update";
+           
         }
         #endregion
 
@@ -187,15 +218,44 @@ namespace GroceryItemsPractice.ViewModel
         private void Save()
         {
             //Save
-            GroceryItem groceryItem = new GroceryItem();
+            if (isInEditMode == true)
+            {
+                UpdateCurrentItem();
+            }
+            else 
+            {
+                AddNewItem();
+            }
+            currentWindow.Close();
+        }
+
+        private void AddNewItem()
+        {
+            GroceryItemDetailViewModel groceryItem = new GroceryItemDetailViewModel();
 
             groceryItem.Name = this.Name;
             groceryItem.Category = SelectedCategory;
             groceryItem.SubCategory = SelectedSubCategory;
-            groceryItem.AddCart = AddCart;
+            groceryItem.AddCart = this.AddCart;
 
-            mainViewModel.GroceryItemList.Add(groceryItem);
-            currentWindow.Close();
+			//if (this.PercentDone.HasValue == true)
+			//{
+			//    toDoItem.PercentDone = this.PercentDone.Value;
+			//}
+			//else
+			//{
+			//    toDoItem.PercentDone = 0;
+			//}
+
+			mainViewModel.GroceryItemList.Add(groceryItem);
+        }
+
+        private void UpdateCurrentItem()
+        {
+            _selectedItem.Name = this.Name;
+            _selectedItem.Category = SelectedCategory;
+            _selectedItem.SubCategory = SelectedSubCategory;
+            _selectedItem.AddCart = AddCart;
         }
 
         private void Clear()
@@ -205,9 +265,9 @@ namespace GroceryItemsPractice.ViewModel
             this.SelectedSubCategory = string.Empty;
             this.AddCart = false;
         }
-        #endregion
+
+		#endregion
 
 
-
-    }
+	}
 }
