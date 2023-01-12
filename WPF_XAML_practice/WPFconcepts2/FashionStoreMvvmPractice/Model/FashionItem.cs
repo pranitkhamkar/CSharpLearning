@@ -13,6 +13,8 @@ namespace FashionStoreMvvmPractice.Model
 		public string Category { get; set; }
 		public string SubCategory { get; set; }
 		public bool AddCart { get; set; }
+		public double?  PercentStock { get; set; }
+		public DateTime OfferDate { get; set; }
 
 	}
 }

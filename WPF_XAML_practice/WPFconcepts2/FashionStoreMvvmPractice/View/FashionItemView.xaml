@@ -39,6 +39,30 @@
 				<TextBlock
 					Width="100"
 					Margin="0,0,10,0"
+					Text="Offer Till Date" />
+				<DatePicker Text="{Binding OfferDate}"
+							Width="300">
+					<DatePicker.BlackoutDates>
+						<CalendarDateRange Start="1/1/2020"  End="1/8/2023"/>
+					</DatePicker.BlackoutDates>
+				</DatePicker>
+			</StackPanel>
+			<StackPanel Margin="0,5" Orientation="Horizontal">
+				<TextBlock
+					Width="100"
+					Margin="0,0,10,0"
+					Text="Stock Percentage" />
+				<Slider Maximum="100"
+						 Minimum="0"
+						 Value="{Binding PercentStock}"
+						 Width="300"/>
+				<!--<TextBox Text="{Binding PercentStock}"
+						 Width="300"/>-->
+			</StackPanel>
+			<StackPanel Margin="0,5" Orientation="Horizontal">
+				<TextBlock
+					Width="100"
+					Margin="0,0,10,0"
 					Text="Add Cart?" />
 				<CheckBox IsChecked="{Binding AddCart}" />
 			</StackPanel>

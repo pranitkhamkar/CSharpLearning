@@ -20,16 +20,16 @@ namespace FashionStoreMvvmPractice.View
 	/// </summary>
 	public partial class FashionItemView : Window
 	{
-		public FashionItemView(MainViewModel mainViewModel)
+		public FashionItemView(MainViewModel mainViewModel,Action RefreshOnChange)
 		{
 			InitializeComponent();
-			this.DataContext = new FashionItemViewModel(this,mainViewModel);
+			this.DataContext = new FashionItemViewModel(this,mainViewModel, RefreshOnChange);
 		}
 
-		public FashionItemView(MainViewModel mainViewModel, FashionItemDetailViewModel selectedItem)
+		public FashionItemView(MainViewModel mainViewModel, FashionItemDetailViewModel selectedItem, Action RefreshOnChange)
 		{
 			InitializeComponent();
-			this.DataContext = new FashionItemViewModel(this, mainViewModel, selectedItem);
+			this.DataContext = new FashionItemViewModel(this, mainViewModel, selectedItem, RefreshOnChange);
 		}
 	}
 }

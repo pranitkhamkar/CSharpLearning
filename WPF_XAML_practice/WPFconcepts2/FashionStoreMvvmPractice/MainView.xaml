@@ -63,6 +63,9 @@
 				<DataGridTextColumn Header="Name"
                                     Width="100"
                                     Binding="{Binding Name}"/>
+				<DataGridTextColumn Header="Offer till Date"
+                                    Width="100"
+                                    Binding="{Binding OfferDate,StringFormat=dd-MMM-yyyy}"/>
 				<DataGridTextColumn Header="Category"
                                     Width="100"
                                     Binding="{Binding Category}"/>
@@ -72,14 +75,14 @@
 				<DataGridTextColumn Header="Add Cart ?"
                                     Width="100"
                                     Binding="{Binding AddCart}"/>
-				<!--<DataGridTemplateColumn Header="Percentage"
+				<DataGridTemplateColumn Header="Stock Percentage"
                                     Width="100">
 					<DataGridTemplateColumn.CellTemplate>
 						<DataTemplate>
-							<ProgressBar Value="{Binding PercentDone}"/>
+							<ProgressBar Value="{Binding PercentStock}"/>
 						</DataTemplate>
 					</DataGridTemplateColumn.CellTemplate>
-				</DataGridTemplateColumn>-->
+				</DataGridTemplateColumn>
 			</DataGrid.Columns>
 		</DataGrid>
 	</Grid>

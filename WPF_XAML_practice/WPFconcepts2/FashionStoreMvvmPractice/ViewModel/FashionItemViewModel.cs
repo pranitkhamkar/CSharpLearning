@@ -14,6 +14,7 @@ namespace FashionStoreMvvmPractice.ViewModel
     {
         #region Properties
         private bool isInEditMode;
+        private Action _refreshOnChange;
         private FashionItemDetailViewModel _selectedItem;
         private Window currentWindow;
         private MainViewModel mainViewModel;
@@ -99,6 +100,35 @@ namespace FashionStoreMvvmPractice.ViewModel
             }
         }
 
+        private double? _percentStock;
+        public double? PercentStock
+        {
+            get
+            {
+                return _percentStock;
+            }
+            set
+            {
+                _percentStock = value;
+                NotifyPropertyChanged();
+            }
+        }
+
+        private DateTime _offerDate;
+        public DateTime OfferDate
+        {
+            get
+            {
+                return _offerDate;
+            }
+            set
+            {
+                _offerDate = value;
+                NotifyPropertyChanged();
+            }
+        }
+
+       
         private string _addUpdateButtonTitle;
         public string AddUpdateButtonTitle
         {
@@ -157,12 +187,17 @@ namespace FashionStoreMvvmPractice.ViewModel
         #endregion
 
         #region Constructors
-        public FashionItemViewModel(Window window, MainViewModel mainViewModel)
+        public FashionItemViewModel(Window window, MainViewModel mainViewModel,Action RefreshOnChange)
         {
+            this.currentWindow = window;
+            this.mainViewModel = mainViewModel;
+            this._refreshOnChange = RefreshOnChange;
+            
+            this.OfferDate = DateTime.Now.AddDays(1);
             isInEditMode = false;
             AddUpdateButtonTitle = "Add";
-            this.mainViewModel = mainViewModel;
-            currentWindow = window;
+
+
 
             //1.
             //List<string> categories = DataService.GetAllCategories();
@@ -183,7 +218,8 @@ namespace FashionStoreMvvmPractice.ViewModel
             SubCategoryList = new ObservableCollection<string>();
         }
 
-        public FashionItemViewModel(Window window, MainViewModel mainViewModel, FashionItemDetailViewModel selectedItem) : this(window, mainViewModel)
+        public FashionItemViewModel(Window window, MainViewModel mainViewModel, FashionItemDetailViewModel selectedItem, Action RefreshOnChange) 
+            : this(window, mainViewModel, RefreshOnChange)
         {
             _selectedItem = selectedItem;
             this.Name = selectedItem.Name;
@@ -225,27 +261,28 @@ namespace FashionStoreMvvmPractice.ViewModel
                 AddNewItem();
             }
             currentWindow.Close();
+            _refreshOnChange();
+
         }
 
         private void AddNewItem()
         {
-            FashionItemDetailViewModel groceryItem = new FashionItemDetailViewModel();
+            FashionItemDetailViewModel fashionItem = new FashionItemDetailViewModel();
 
-            groceryItem.Name = this.Name;
-            groceryItem.Category = SelectedCategory;
-            groceryItem.SubCategory = SelectedSubCategory;
-            groceryItem.AddCart = this.AddCart;
-
-            //if (this.PercentDone.HasValue == true)
-            //{
-            //    toDoItem.PercentDone = this.PercentDone.Value;
-            //}
-            //else
-            //{
-            //    toDoItem.PercentDone = 0;
-            //}
-
-            mainViewModel.FashionItemList.Add(groceryItem);
+            fashionItem.Name = this.Name;
+            fashionItem.Category = SelectedCategory;
+            fashionItem.SubCategory = SelectedSubCategory;
+            fashionItem.AddCart = AddCart;
+            fashionItem.OfferDate = this.OfferDate;
+            if (this.PercentStock.HasValue == true)
+            {
+               fashionItem.PercentStock = this.PercentStock.Value;
+            }
+            else
+            {
+                fashionItem.PercentStock = 0;
+            }
+            mainViewModel.FashionItemList.Add(fashionItem);
         }
 
         private void UpdateCurrentItem()

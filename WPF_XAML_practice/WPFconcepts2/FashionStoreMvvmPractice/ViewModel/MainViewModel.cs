@@ -1,4 +1,6 @@
-﻿using FashionStoreMvvmPractice.View;
+﻿using FashionStoreMvvmPractice.Model;
+using FashionStoreMvvmPractice.Services;
+using FashionStoreMvvmPractice.View;
 using GalaSoft.MvvmLight.Command;
 using System;
 using System.Collections.Generic;
@@ -104,7 +106,7 @@ namespace FashionStoreMvvmPractice.ViewModel
 
 		private void ShowFashionItemDialog()
 		{
-			FashionItemView fashionItemView = new FashionItemView(this);
+			FashionItemView fashionItemView = new FashionItemView(this,ReloadOnRefresh);
 			fashionItemView.ShowDialog();
 		}
 
@@ -139,8 +141,34 @@ namespace FashionStoreMvvmPractice.ViewModel
 
 		private void EditSelectedItem()
 		{
-			FashionItemView fashionItemView = new FashionItemView(this, SelectedFashionItem);
+			FashionItemView fashionItemView = new FashionItemView(this, SelectedFashionItem, ReloadOnRefresh);
 			fashionItemView.ShowDialog();
+		}
+
+		public void ReloadOnRefresh()
+		{
+			LoadAllGetItems();
+		}
+
+		private void LoadAllGetItems()
+		{
+			FashionItemList.Clear();
+
+			List<FashionItem> items = DataService.GetAllFashionItems();
+
+			foreach (var item in items)
+			{
+				FashionItemDetailViewModel itemViewModel = new FashionItemDetailViewModel();
+				itemViewModel.Id = item.Id;
+				itemViewModel.Name = item.Name;
+				itemViewModel.PercentStock = (double)item.PercentStock;
+				itemViewModel.OfferDate = item.OfferDate;
+				itemViewModel.Category = item.Category;
+				itemViewModel.SubCategory = item.SubCategory;
+				itemViewModel.AddCart = item.AddCart;
+
+				FashionItemList.Add(itemViewModel);
+			}
 		}
 		#endregion
 	}

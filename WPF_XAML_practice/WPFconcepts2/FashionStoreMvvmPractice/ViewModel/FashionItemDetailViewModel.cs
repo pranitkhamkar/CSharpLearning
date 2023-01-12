@@ -24,6 +24,34 @@ namespace FashionStoreMvvmPractice.ViewModel
             }
         }
 
+        private double _percentStock;
+        public double PercentStock
+        {
+            get
+            {
+                return _percentStock;
+            }
+            set
+            {
+                _percentStock = value;
+                NotifyPropertyChanged();
+            }
+        }
+
+        private DateTime _offerDate;
+        public DateTime OfferDate
+        {
+            get
+            {
+                return _offerDate;
+            }
+            set
+            {
+                _offerDate = value;
+                NotifyPropertyChanged();
+            }
+        }
+
         private bool _addCart;
         public bool AddCart
         {
